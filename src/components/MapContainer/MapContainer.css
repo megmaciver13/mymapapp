@@ -1,0 +1,8 @@
+.map-container {
+    font-size: 12em;
+}
+
+.map {
+    width: '100vw';
+    height: '100vh';
+}
