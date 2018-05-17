@@ -1,14 +1,13 @@
 import React, { Component } from 'react'
+import './Header.css'
 
 class Header extends Component {
-    constructor() {
-        super()
-    }
-
     render() {
         return(
-            <div>
-                <h1>Header here!!!</h1>
+            <div className="header">
+                <div className="center">
+                    <h1>myMapApp</h1>
+                </div>
             </div>
         )
     }
